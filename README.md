@@ -2,6 +2,8 @@
 
 DIY air quality meter based on Arduino UNO microcontroller, a carbon dioxide sensor and a temperature and humidity sensor
 
+![Arduino Air Quality meter](https://massimobottelli.it/wp-content/uploads/2023/03/co2-box-1.jpeg)
+
 ## Components:
 * Arduino UNO
 * SSD1306 OLED display
